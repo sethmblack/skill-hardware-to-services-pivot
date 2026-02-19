@@ -3,8 +3,9 @@ name: hardware-to-services-pivot
 description: Transform a hardware business into a hardware-plus-services model with recurring revenue, higher margins, and ecosystem lock-in.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4141
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hardware-to-services-pivot
 - transformation
